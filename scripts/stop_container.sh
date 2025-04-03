@@ -8,4 +8,4 @@ if [ -n "$containerid" ]; then
     echo "Hi, I am going to stop the container: $containerid"
 else
     echo "No running container found."
-Fi
+fi  # Corrected from 'Fi' to 'fi'
